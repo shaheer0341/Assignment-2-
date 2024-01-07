@@ -1,0 +1,112 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+
+
+body {
+    background-color: #172554;
+    justify-content: center;
+    text-align: center;
+    margin: 0; 
+    padding-top: 20px; 
+}
+
+
+h1 {
+    color: white;
+    font-weight: bold;
+    margin-top: 20px; 
+}
+
+label, p {
+    color: white;
+    margin-bottom: 10px; 
+}
+
+.inputs {
+    padding-left: 30px;
+    margin-left: 12rem;
+    width: 300px;
+    margin-bottom: 20px; /* Adding space below inputs */
+}
+
+hr {
+    width: 500px;
+    margin: 20px auto; 
+}
+
+.input-details {
+    padding-right: 300px;
+    margin-bottom: 20px; 
+}
+
+.email {
+    padding-right: 35px;
+}
+
+.password {
+    padding-right: 15px;
+}
+
+
+.checkbox {
+    padding-right: 300px;
+    margin-bottom: 20px; 
+}
+
+.terms {
+    padding-left: 5px;
+}
+
+a {
+    color: antiquewhite;
+}
+
+
+
+.choose-file {
+    padding-left: 100px;
+}
+
+
+.option {
+    padding-left: 30px;
+}
+
+.message {
+    margin-left: 150px;
+}
+
+.personal-details {
+    padding-right: 270px;
+    margin-bottom: 20px;
+}
+
+
+
+.picture {
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+
+.age {
+    margin-left: 30px;
+    margin-bottom: 20px; 
+}
+
+.select {
+    margin-right: 50px; 
+    margin-bottom: 20px; 
+}
+
+.bio {
+    margin-right: 50px; 
+    margin-bottom: 20px; 
+}
+
+button{
+    margin-right: 20rem;
+    margin-bottom: 20px; 
+    width: 100px;
+    text-align: center;
+    font-weight: bolder;
+}
